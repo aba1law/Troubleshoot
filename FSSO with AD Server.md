@@ -1,5 +1,14 @@
 # Troubleshooting authentication
 
+### Win PC
+Click 
+```shell
+F12 / ctrl+shift+i / cmd+options+i
+```
+Go to "Network" page
+
+
+
 ### FortiGate commands for log
 ```shell
 diagnose debug application fnbamd -1
